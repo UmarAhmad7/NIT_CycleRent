@@ -1,6 +1,6 @@
 # 🚲 Cycle Rental System
 
-Explore the world of car rentals with the **Cycle Rental System**, a Java-based console application that combines learning and simulation. 🌟
+Explore the world of car rentals with the **Cycle Rental System**, a C++-based console application that combines learning and simulation. 🌟
 
 ## Features
 
