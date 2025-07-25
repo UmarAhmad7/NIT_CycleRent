@@ -1,4 +1,4 @@
-# 🚗 Cycle Rental System
+# 🚲 Cycle Rental System
 
 Explore the world of car rentals with the **Cycle Rental System**, a Java-based console application that combines learning and simulation. 🌟
 
@@ -7,7 +7,7 @@ Explore the world of car rentals with the **Cycle Rental System**, a Java-based 
 🚀 Rent a Cycle: Experience the ease of renting cars through an interactive console.
 🔁 Return a Cycle: Effortlessly return previously rented cars and update availability.
 👥 Customer Management: Add new customers and maintain customer records.
-🚗 Cycle Management: Manage cars, brands, models, and pricing details.
+🚲 Cycle Management: Manage cars, brands, models, and pricing details.
 📝 Rental History: Keep track of rentals, customers, and rental durations.
 
 ## Getting Started
