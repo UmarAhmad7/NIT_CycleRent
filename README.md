@@ -4,10 +4,10 @@ Explore the world of car rentals with the **Cycle Rental System**, a C++-based c
 
 ## Features
 
-🚀 Rent a Cycle: Experience the ease of renting cars through an interactive console.
+🚀 Rent a Cycle: Experience the ease of renting cycles through an interactive console.
 🔁 Return a Cycle: Effortlessly return previously rented cars and update availability.
 👥 Customer Management: Add new customers and maintain customer records.
-🚲 Cycle Management: Manage cars, brands, models, and pricing details.
+🚲 Cycle Management: Manage cycle, brands, models, and pricing details.
 📝 Rental History: Keep track of rentals, customers, and rental durations.
 
 ## Getting Started
@@ -20,10 +20,10 @@ Contribute to the project's growth. Open issues, submit pull requests, and colla
 
 ## Future Roadmap 🛤️
 
-🤝 Support multiple customers renting the same car simultaneously.
+🤝 Support multiple customers renting the same cycle simultaneously.
 ⏰ Implement date-based pricing adjustments.
 🎨 Develop a graphical user interface (GUI) for enhanced user experience.
 
 ---
 
-Feel the thrill of renting and returning cars while mastering OOP concepts. Dive into the Car Rental System and drive your learning forward! 🚗💨
+Feel the thrill of renting and returning cycles while mastering OOP concepts. Dive into the Cycle Rental System and drive your learning forward! 🚗💨
